@@ -1,8 +1,8 @@
 # Ship It Friday
 
-![Competition](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a.svg)
-![Rank](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/SRamadhan-07/makefun-ship-it-friday/rank.svg)
-![Reward](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/SRamadhan-07/makefun-ship-it-friday/reward.svg)
+[![Competition](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a)
+[![Rank](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/SRamadhan-07/makefun-ship-it-friday/rank.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a)
+[![Reward](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/SRamadhan-07/makefun-ship-it-friday/reward.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a)
 
 A Python program that writes a Friday ship-it commit message: if it breaks, Monday me has more context anyway.
 
